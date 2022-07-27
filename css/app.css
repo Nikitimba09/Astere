@@ -1290,7 +1290,7 @@ html, body {
 
 @media (max-width: 767px) {
   .footer__nav {
-    font-size: calc(10px + 17 * ((100vw - 320px) / 1440));
+    font-size: calc(16px + 17 * ((100vw - 320px) / 1440));
   }
 }
 
