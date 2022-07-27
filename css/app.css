@@ -1296,13 +1296,13 @@ html, body {
 
 @media (min-width: 767px) {
   .footer__nav {
-    font-size: calc(10px + 10 * (100vw / 1440));
+    font-size: calc(16px + 10 * (100vw / 1440));
   }
 }
 
 @media (min-width: 1440px) {
   .footer__nav {
-    font-size: 20px;
+    font-size: 24px;
   }
 }
 
